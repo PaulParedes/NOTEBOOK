@@ -6,4 +6,7 @@ Get started by reading [[README]]#.
 
 Other pages on this zettelkasten:
 
+[ley xxx](https://drive.google.com/file/d/1-YI0rZhqVG8L-DkYPuGXcd_C0e9ml4zi/view?usp=drivesdk)
+
+
 - [[faq]]#
