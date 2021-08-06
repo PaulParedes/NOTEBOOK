@@ -4,10 +4,4 @@ You are viewing a template site that is generated from [neuron-template](https:/
 
 Get started by reading [[README]]#.
 
-Other pages on this zettelkasten:
-
-[ley xxx](https://drive.google.com/file/d/1-YI0rZhqVG8L-DkYPuGXcd_C0e9ml4zi/view?usp=drivesdk)
-[lllll](https://drive.google.com/file/d/1-YI0rZhqVG8L-DkYPuGXcd_C0e9ml4zi/view?usp=drivesdk)
-
 - [[faq]]#
-Mmmmmmm
