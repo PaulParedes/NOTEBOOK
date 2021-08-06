@@ -4,4 +4,7 @@ You are viewing a template site that is generated from [neuron-template](https:/
 
 Get started by reading [[README]]#.
 
+Para ir a la libreta de notas, pulse aquí [[LIBRETA]]#
+
+
 - [[faq]]#
